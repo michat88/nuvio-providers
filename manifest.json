@@ -1,5 +1,5 @@
 {
-  "name": "Tapframe's Repo",
+  "name": "Michat88's Repo",
   "version": "1.0.0",
   "scrapers": [
     {
@@ -500,7 +500,7 @@
         "mp4",
         "mkv"
       ],
-      "logo": "https://raw.githubusercontent.com/tapframe/nuvio-providers/main/Assets/Logo-2.png",
+      "logo": "https://raw.githubusercontent.com/michat88/nuvio-providers/main/Assets/Logo-2.png",
       "contentLanguage": [
         "en"
       ]
