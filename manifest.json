@@ -23,6 +23,594 @@
         "en",
         "id"
       ]
+    },
+    {
+      "id": "4khdhub",
+      "name": "4khdhub",
+      "description": "Auto-generated description for 4khdhub",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/4khdhub.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "animekai",
+      "name": "Animekai",
+      "description": "Auto-generated description for Animekai",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/animekai.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "description": "Auto-generated description for Castle",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/castle.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "cinevibe",
+      "name": "Cinevibe",
+      "description": "Auto-generated description for Cinevibe",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/cinevibe.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "dahmermovies",
+      "name": "Dahmermovies",
+      "description": "Auto-generated description for Dahmermovies",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/dahmermovies.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "dvdplay",
+      "name": "Dvdplay",
+      "description": "Auto-generated description for Dvdplay",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/dvdplay.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hdhub4u",
+      "name": "Hdhub4u",
+      "description": "Auto-generated description for Hdhub4u",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/hdhub4u.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hdrezka",
+      "name": "Hdrezka",
+      "description": "Auto-generated description for Hdrezka",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/hdrezka.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "idlix",
+      "name": "Idlix",
+      "description": "Auto-generated description for Idlix",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/idlix.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "mallumv",
+      "name": "Mallumv",
+      "description": "Auto-generated description for Mallumv",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/mallumv.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "mapple",
+      "name": "Mapple",
+      "description": "Auto-generated description for Mapple",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/mapple.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "moviebox",
+      "name": "Moviebox",
+      "description": "Auto-generated description for Moviebox",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/moviebox.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "moviesmod",
+      "name": "Moviesmod",
+      "description": "Auto-generated description for Moviesmod",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/moviesmod.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "myflixer-extractor",
+      "name": "Myflixer-extractor",
+      "description": "Auto-generated description for Myflixer-extractor",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/myflixer-extractor.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "netmirror",
+      "name": "Netmirror",
+      "description": "Auto-generated description for Netmirror",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/netmirror.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "showbox",
+      "name": "Showbox",
+      "description": "Auto-generated description for Showbox",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/showbox.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "streamflix",
+      "name": "Streamflix",
+      "description": "Auto-generated description for Streamflix",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/streamflix.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "uhdmovies",
+      "name": "Uhdmovies",
+      "description": "Auto-generated description for Uhdmovies",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/uhdmovies.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "videasy",
+      "name": "Videasy",
+      "description": "Auto-generated description for Videasy",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/videasy.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vidlink",
+      "name": "Vidlink",
+      "description": "Auto-generated description for Vidlink",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidlink.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vidnest-anime",
+      "name": "Vidnest-anime",
+      "description": "Auto-generated description for Vidnest-anime",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidnest-anime.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vidnest",
+      "name": "Vidnest",
+      "description": "Auto-generated description for Vidnest",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidnest.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vidrock",
+      "name": "Vidrock",
+      "description": "Auto-generated description for Vidrock",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidrock.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vidsrc",
+      "name": "Vidsrc",
+      "description": "Auto-generated description for Vidsrc",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidsrc.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "vixsrc",
+      "name": "Vixsrc",
+      "description": "Auto-generated description for Vixsrc",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vixsrc.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "watch32",
+      "name": "Watch32",
+      "description": "Auto-generated description for Watch32",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/watch32.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "xprime",
+      "name": "Xprime",
+      "description": "Auto-generated description for Xprime",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/xprime.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "yflix",
+      "name": "Yflix",
+      "description": "Auto-generated description for Yflix",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/yflix.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
     }
   ]
 }
