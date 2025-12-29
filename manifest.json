@@ -1,25 +1,7 @@
 {
-  "name": "Michat88 Repository",
+  "name": "Michat88's Repo",
   "version": "1.0.0",
   "scrapers": [
-    {
-      "id": "adicinemax-nuvio",
-      "name": "Adicinemax21",
-      "description": "Multi-Source (VidSrc + VidLink) via TMDB",
-      "version": "1.0.0",
-      "author": "Michat88",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "adicinemax/main.js",
-      "enabled": true,
-      "logo": "https://image.tmdb.org/t/p/w500/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
-      "contentLanguage": [
-        "id",
-        "en"
-      ]
-    },
     {
       "id": "4khdhub",
       "name": "4KHDHub",
@@ -518,7 +500,7 @@
         "mp4",
         "mkv"
       ],
-      "logo": "https://raw.githubusercontent.com/tapframe/nuvio-providers/main/Assets/Logo-2.png",
+      "logo": "https://raw.githubusercontent.com/michat88/nuvio-providers/main/Assets/Logo-2.png",
       "contentLanguage": [
         "en"
       ]
