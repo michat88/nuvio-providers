@@ -1,0 +1,32 @@
+name: Auto Update Manifest
+
+on:
+  push:
+    paths:
+      - 'providers/**.js' # Hanya jalan jika ada perubahan di folder providers
+  workflow_dispatch: # Supaya bisa dijalankan manual juga
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Izin untuk mengedit file di repo
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
+      - name: Run Update Script
+        run: node update_manifest_script.js
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-add new scraper to manifest.json"
+          file_pattern: manifest.json
