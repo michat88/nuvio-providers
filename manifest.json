@@ -611,6 +611,27 @@
       "contentLanguage": [
         "en"
       ]
+    },
+    {
+      "id": "adimoviebox",
+      "name": "Adimoviebox",
+      "description": "Auto-generated description for Adimoviebox",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/adimoviebox.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": [
+        "en"
+      ]
     }
   ]
 }
